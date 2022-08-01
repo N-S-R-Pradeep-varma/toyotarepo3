@@ -11,5 +11,5 @@ public class DemoController {
 	public String methid1() {
 		return("hi");
 	}
-
+System.out.println("hai");
 }
